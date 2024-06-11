@@ -1,6 +1,4 @@
-root pass: 		Rootpass123
-bmatosd:		123456789Bm
-encryption pass:	Encrypted123
+
 
 EVALUATION
 	SETUP
