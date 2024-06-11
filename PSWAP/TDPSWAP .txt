@@ -1,0 +1,65 @@
+**TODO**
+
+**FINAL CHECKS**
+	- HEADERS
+	- NORMINETTE
+
+**NOTES**
+	read 
+	write 
+	malloc 
+	free 
+	exit
+	ft_printf
+
+
+**CODING**
+
+	First Argument Corresponds to Top of Stack
+
+	Check for errors in list
+		Return Error\n
+
+	Check List Ordered
+
+	Allowed Movements
+		sa
+			swap first two digits  of list a 
+		
+		sb
+			swap first two digits  of list b
+
+		ss
+			sa + sb
+		
+		pa
+			top plate into stack b
+		
+		pb
+			top plate into stack a
+		
+		ra
+			first to last 
+
+		rb 
+			first to last
+
+		rr 
+			ra + rb 
+		
+		rra 
+			last to first
+
+		rrb 
+			last to first
+
+		rrr
+			rra + rrb
+	
+	Instrucciones seperadas por \n
+	
+	Menor Por Arriba de Stack A
+
+Dudas:
+Si no se especifican parámetros, el programa no deberá mostrar nada y deberá
+devolver el control al usuario.
